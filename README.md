@@ -1,1 +1,3 @@
-# lths-bpa.github.io
+# LTHS BPA Website
+
+https://lths-bpa.github.io/
